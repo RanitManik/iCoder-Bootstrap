@@ -121,7 +121,7 @@ This is an example of how to list things you need to use the software and how to
 
 Welcome to our Bootstrap website for coding beginners! In this blogging post, we will take you through the fundamental concepts of Bootstrap and show you how to create a responsive and visually appealing website using this popular front-end framework. Whether you are new to coding or an experienced developer looking to streamline your design process, Bootstrap is an excellent tool to have in your toolkit. Let's dive right in!
 
-_For more , please read guide to bootstrap [Guide](https://github.com/RanitManik/Bootsrap.git/guides)_
+_For more , please read guide to bootstrap [Guide](.github/ISSUE/guide---.md)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

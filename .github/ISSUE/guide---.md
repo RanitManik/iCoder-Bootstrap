@@ -26,4 +26,3 @@ Bootstrap offers a range of utility classes that can enhance the appearance and 
 
 Conclusion:
 Congratulations! You've completed our beginner's guide to Bootstrap. By now, you should have a solid understanding of how Bootstrap works and how it can streamline your web development process. Remember, Bootstrap is a versatile framework that continues to evolve, so keep exploring its documentation and experiment with different components and features. With Bootstrap's power at your fingertips, you're well on your way to creating stunning and responsive websites. Happy coding!
---write a html code
