@@ -80,7 +80,7 @@ iCoder is a cutting-edge blogging platform designed for coding enthusiasts like 
 
 ### Built With
 
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
