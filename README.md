@@ -103,6 +103,7 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. clone this repo
+   ```sh
    git clone https://github.com/RanitManik/Bootsrap.git
 
    ```
