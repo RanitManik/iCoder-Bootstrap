@@ -35,9 +35,9 @@
 <br />
 <a href="https://github.com/RanitManik/Bootsrap.git">View Demo</a>
 ·
-<a href="https://github.com/RanitManik/Bootsrap.git/issues">Report Bug</a>
+<a href=".github/ISSUE/bug-report---.md">Report Bug</a>
 ·
-<a href="https://github.com/RanitManik/Bootsrap.git/issues">Request Feature</a>
+<a href=".github/ISSUE/feature-request---.md">Request Feature</a>
 
   </p>
 </div>
@@ -133,6 +133,7 @@ _For more , please read guide to bootstrap [Guide](https://github.com/RanitManik
 - [ ] Feature 2
 - [ ] Feature 3
   - [ ] Nested Feature
+
 
  See the [open issues](.github/ISSUE/bug-report---.md) for a full list of and known issues.
  
