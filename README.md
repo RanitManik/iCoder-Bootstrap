@@ -25,10 +25,10 @@
     <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">icoder</h3>
+<h2 align="center">icoder</h3>
 
-  <a
-    Welcome to iCoder - Your Ultimate Coding Blogging Site!
+<a
+Welcome to iCoder - Your Ultimate Coding Blogging Site!
 
 iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
 
@@ -120,9 +120,11 @@ This is an example of how to list things you need to use the software and how to
 
 1. clone this repo
    git clone https://github.com/RanitManik/Bootsrap.git
+
    ```
 
    ```
+
 2. Install NPM packages
    ```sh
    npm install
