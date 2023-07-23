@@ -27,23 +27,7 @@
 
 <h1 align="center">icoder</h1>
 
-<p 
-Welcome to iCoder - Your Ultimate Coding Blogging Site!
-
-iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
-
-Key Features:
-
-Bootstrap-Powered: iCoder is built with Bootstrap, ensuring a responsive and visually stunning design across all devices, from desktops to smartphones.
-Intuitive User Interface: Our user-friendly interface makes navigation a breeze, allowing you to explore a vast collection of coding articles effortlessly.
-Engaging Content: Dive into a plethora of informative and engaging blog posts written by coding experts and enthusiasts from around the world.
-Interact and Connect: Join our vibrant community of coders, share your insights, and exchange ideas with like-minded individuals through comments and discussions.
-Search and Discover: Easily find the topics that interest you with our powerful search feature and curated categories.
-Stay Updated: Never miss a beat with our regular updates and notifications on the latest coding trends, tools, and tutorials.
-
-Whether you're a seasoned developer or just starting your coding journey, iCoder is the perfect platform to expand your knowledge, share your experiences, and be inspired by the ever-evolving world of coding.
-
-Join iCoder today and embark on an exciting coding adventure! Happy coding!
+<p> iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
 </p>
 <br />
 <a href="https://github.com/RanitManik/Bootsrap.git"><strong>Explore the docs »</strong></a>
