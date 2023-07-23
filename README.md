@@ -25,7 +25,7 @@
     <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h2 align="center">icoder</h3>
+<h1 align="center">icoder</h1>
 
 <a
 Welcome to iCoder - Your Ultimate Coding Blogging Site!
