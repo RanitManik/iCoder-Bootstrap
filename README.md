@@ -134,8 +134,8 @@ _For more , please read guide to bootstrap [Guide](https://github.com/RanitManik
 - [ ] Feature 3
   - [ ] Nested Feature
 
-See the [open issues](.github/ISSUE/bug-report---.md) for a full list of proposed features (and known issues).
-
+See the [open issues](.github/ISSUE/bug-report---.md) for a full list of and known issues.
+See the [open features](.github/ISSUE/bug-report---.md) to propose a feature.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
