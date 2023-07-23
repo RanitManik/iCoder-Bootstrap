@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RanitManik/Bootsrap.git">
-    <img src="images/logo.png" alt="Logo" width="400" height="400">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">icoder</h3>
