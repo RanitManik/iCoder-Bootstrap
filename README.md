@@ -135,9 +135,9 @@ _For more , please read guide to bootstrap [Guide](.github/ISSUE/guide---.md)_
   - [ ] Nested Feature
 
 
- See the [open issues](.github/ISSUE/bug-report---.md) for a full list of and known issues.
+ [open issues](.github/ISSUE/bug-report---.md) for a full list of and known issues.
  
- See the [open features](.github/ISSUE/bug-report---.md) to propose a feature.
+ [open features](.github/ISSUE/bug-report---.md) to propose a feature.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
