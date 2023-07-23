@@ -27,7 +27,7 @@
 
 <h1 align="center">icoder</h1>
 
-<a
+<p 
 Welcome to iCoder - Your Ultimate Coding Blogging Site!
 
 iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
@@ -44,7 +44,7 @@ Stay Updated: Never miss a beat with our regular updates and notifications on th
 Whether you're a seasoned developer or just starting your coding journey, iCoder is the perfect platform to expand your knowledge, share your experiences, and be inspired by the ever-evolving world of coding.
 
 Join iCoder today and embark on an exciting coding adventure! Happy coding!
-</a>
+</p>
 <br />
 <a href="https://github.com/RanitManik/Bootsrap.git"><strong>Explore the docs »</strong></a>
 <br />
