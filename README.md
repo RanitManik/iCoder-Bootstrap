@@ -22,12 +22,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/RanitManik/Bootsrap.git">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="875" height="437">
   </a>
 
 <h3 align="center">icoder</h3>
 
-  <p align="center">
+  <p
     Welcome to iCoder - Your Ultimate Coding Blogging Site!
 
 iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
@@ -44,6 +44,7 @@ Stay Updated: Never miss a beat with our regular updates and notifications on th
 Whether you're a seasoned developer or just starting your coding journey, iCoder is the perfect platform to expand your knowledge, share your experiences, and be inspired by the ever-evolving world of coding.
 
 Join iCoder today and embark on an exciting coding adventure! Happy coding!
+</p>
 <br />
 <a href="https://github.com/RanitManik/Bootsrap.git"><strong>Explore the docs »</strong></a>
 <br />
