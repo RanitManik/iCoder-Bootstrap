@@ -134,7 +134,7 @@ _For more , please read guide to bootstrap [Guide](https://github.com/RanitManik
 - [ ] Feature 3
   - [ ] Nested Feature
 
-See the [open issues](https://github.com/RanitManik/Bootsrap.git/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](.github/ISSUE/bug-report---.md) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
