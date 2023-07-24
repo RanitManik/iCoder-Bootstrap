@@ -33,7 +33,7 @@
 <a href="https://ranitmanik.github.io/iCoder-Bootsrap/"><strong>Visit the Website »</strong></a>
 <br />
 <br />
-<a href="https://github.com/RanitManik/Bootsrap.git">View Demo</a>
+<a href="https://ranitmanik.github.io/iCoder-Bootsrap/">View Demo</a>
 ·
 <a href=".github/ISSUE/bug-report---.md">Report Bug</a>
 ·
@@ -75,6 +75,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://ranitmanik.github.io/iCoder-Bootsrap/)
 
 iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
+  visit my website : https://ranitmanik.github.io/iCoder-Bootsrap/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
