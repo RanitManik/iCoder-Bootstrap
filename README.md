@@ -30,7 +30,7 @@
 <p> Welcome to iCoder - Your Ultimate Coding Blogging Site
 </p>
 <br />
-<a href="https://github.com/RanitManik/Bootsrap.git"><strong>Explore the docs »</strong></a>
+<a href="https://ranitmanik.github.io/iCoder-Bootsrap/"><strong>Visit the Website »</strong></a>
 <br />
 <br />
 <a href="https://github.com/RanitManik/Bootsrap.git">View Demo</a>
