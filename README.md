@@ -22,30 +22,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/RanitManik/Bootsrap.git">
-<<<<<<< HEAD
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">icoder</h3>
-
-  <p align="center">
-    Welcome to iCoder - Your Ultimate Coding Blogging Site!
-
-iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
-
-Key Features:
-
-Bootstrap-Powered: iCoder is built with Bootstrap, ensuring a responsive and visually stunning design across all devices, from desktops to smartphones.
-Intuitive User Interface: Our user-friendly interface makes navigation a breeze, allowing you to explore a vast collection of coding articles effortlessly.
-Engaging Content: Dive into a plethora of informative and engaging blog posts written by coding experts and enthusiasts from around the world.
-Interact and Connect: Join our vibrant community of coders, share your insights, and exchange ideas with like-minded individuals through comments and discussions.
-Search and Discover: Easily find the topics that interest you with our powerful search feature and curated categories.
-Stay Updated: Never miss a beat with our regular updates and notifications on the latest coding trends, tools, and tutorials.
-
-Whether you're a seasoned developer or just starting your coding journey, iCoder is the perfect platform to expand your knowledge, share your experiences, and be inspired by the ever-evolving world of coding.
-
-Join iCoder today and embark on an exciting coding adventure! Happy coding!
-=======
     <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -53,22 +29,15 @@ Join iCoder today and embark on an exciting coding adventure! Happy coding!
 
 <p> Welcome to iCoder - Your Ultimate Coding Blogging Site
 </p>
->>>>>>> main
 <br />
 <a href="https://github.com/RanitManik/Bootsrap.git"><strong>Explore the docs »</strong></a>
 <br />
 <br />
 <a href="https://github.com/RanitManik/Bootsrap.git">View Demo</a>
 ·
-<<<<<<< HEAD
-<a href="https://github.com/RanitManik/Bootsrap.git/issues">Report Bug</a>
-·
-<a href="https://github.com/RanitManik/Bootsrap.git/issues">Request Feature</a>
-=======
 <a href=".github/ISSUE/bug-report---.md">Report Bug</a>
 ·
 <a href=".github/ISSUE/feature-request---.md">Request Feature</a>
->>>>>>> main
 
   </p>
 </div>
@@ -105,21 +74,13 @@ Join iCoder today and embark on an exciting coding adventure! Happy coding!
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-<<<<<<< HEAD
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-=======
 iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
->>>>>>> main
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-<<<<<<< HEAD
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-=======
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
->>>>>>> main
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,10 +96,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 
 - npm
-<<<<<<< HEAD
-=======
  
->>>>>>> main
   ```sh
   npm install npm@latest -g
   ```
@@ -146,17 +104,10 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. clone this repo
-<<<<<<< HEAD
-   git clone https://github.com/RanitManik/Bootsrap.git
-   ```
-
-   ```
-=======
    ```sh
    git clone https://github.com/RanitManik/Bootsrap.git
    ```
 
->>>>>>> main
 2. Install NPM packages
    ```sh
    npm install
@@ -170,11 +121,7 @@ This is an example of how to list things you need to use the software and how to
 
 Welcome to our Bootstrap website for coding beginners! In this blogging post, we will take you through the fundamental concepts of Bootstrap and show you how to create a responsive and visually appealing website using this popular front-end framework. Whether you are new to coding or an experienced developer looking to streamline your design process, Bootstrap is an excellent tool to have in your toolkit. Let's dive right in!
 
-<<<<<<< HEAD
-_For more , please read guide to bootstrap [Guide](https://github.com/RanitManik/Bootsrap.git/guides)_
-=======
 _For more , please read guide to bootstrap [Guide](.github/ISSUE/guide---.md)_
->>>>>>> main
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,15 +134,10 @@ _For more , please read guide to bootstrap [Guide](.github/ISSUE/guide---.md)_
 - [ ] Feature 3
   - [ ] Nested Feature
 
-<<<<<<< HEAD
-See the [open issues](https://github.com/RanitManik/Bootsrap.git/issues) for a full list of proposed features (and known issues).
-
-=======
 
  [open issues](.github/ISSUE/bug-report---.md) for a full list of and known issues.
  
  [open features](.github/ISSUE/bug-report---.md) to propose a feature.
->>>>>>> main
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
