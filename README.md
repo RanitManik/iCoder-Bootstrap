@@ -72,7 +72,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://ranitmanik.github.io/iCoder-Bootsrap/)
 
 iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
 
@@ -119,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Outcome
 
-Welcome to our Bootstrap website for coding beginners! In this blogging post, we will take you through the fundamental concepts of Bootstrap and show you how to create a responsive and visually appealing website using this popular front-end framework. Whether you are new to coding or an experienced developer looking to streamline your design process, Bootstrap is an excellent tool to have in your toolkit. Let's dive right in!
+Welcome to my Bootstrap website project for coding beginners! In this project, I will take you through the fundamental concepts of Bootstrap and show you how to create a responsive and visually appealing website using this popular front-end framework. Whether you are new to coding or an experienced developer looking to streamline your design process, Bootstrap is an excellent tool to have in your toolkit. Let's dive right in!
 
 _For more , please read guide to bootstrap [Guide](.github/ISSUE/guide---.md)_
 
@@ -171,7 +171,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - Ranit Kumar Manik - ranitmanikofficial@outlook.com
 
-Project Link: [https://github.com/RanitManik/Bootsrap.git](https://github.com/RanitManik/Bootsrap.git)
+Project Link: [https://github.com/RanitManik/Bootsrap.git](https://ranitmanik.github.io/iCoder-Bootsrap/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
