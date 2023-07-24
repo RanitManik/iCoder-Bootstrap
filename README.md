@@ -49,7 +49,7 @@ Join iCoder today and embark on an exciting coding adventure! Happy coding!
     <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h1 align="center">icoder</h1>
+<h1 align="center">iCoder</h1>
 
 <p> Welcome to iCoder - Your Ultimate Coding Blogging Site
 </p>
