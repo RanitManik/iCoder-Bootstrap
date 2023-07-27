@@ -27,8 +27,9 @@
 
 <h1 align="center">iCoder</h1>
 
-<p> Welcome to iCoder - Your Ultimate Coding Blogging Site
-</p>
+<h3> Welcome to iCoder - Your Ultimate Coding Blogging Site
+</h3>
+
 <br />
 <a href="https://ranitmanik.github.io/iCoder-Bootsrap/"><strong>Visit the Website »</strong></a>
 <br />
