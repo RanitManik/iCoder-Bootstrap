@@ -53,7 +53,7 @@
 
 # About The Project
 
-[![screenshot][Bootstrap.com]][https://raw.githubusercontent.com/RanitManik/iCoder-Bootsrap/main/images/screenshot.png]
+[![Product Name Screen Shot][product-screenshot]](https://github.com/RanitManik/iCoder-Bootsrap)
 iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
   visit my website : https://ranitmanik.github.io/iCoder-Bootsrap/
 
@@ -174,4 +174,6 @@ Project Link: [https://github.com/RanitManik/Bootsrap.git](https://ranitmanik.gi
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[product-screenshot]: images/screenshot.png
+
 
