@@ -167,8 +167,6 @@ Project Link: [https://github.com/RanitManik/Bootsrap.git](https://ranitmanik.gi
 - Thank you for visiting Planet-Earth, and we hope you enjoy exploring the wonders of our beautiful planet!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
