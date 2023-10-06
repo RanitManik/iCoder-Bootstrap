@@ -23,14 +23,17 @@
   </p>
 </div>
 
+---
 
 <!-- ABOUT THE PROJECT -->
 
-# About The Project
+
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/RanitManik/iCoder-Bootsrap)
 
 ---
+
+# About The Project
 
 iCoder is a state-of-the-art blogging platform tailored for individuals passionate about coding, just like you! It utilizes Bootstrap, a popular web development framework, to deliver a polished and contemporary interface. This ensures that users have an engaging and immersive reading experience when it comes to all topics related to coding.
 [visit the website:](https://ranitmanik.github.io/iCoder-Bootsrap/)
