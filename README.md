@@ -10,8 +10,6 @@
 <h3> Welcome to iCoder - Your Ultimate Coding Blogging Site
 </h3>
 
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
- 
 <br />
 <a href="https://ranitmanik.github.io/iCoder-Bootsrap/"><strong>Visit the Website »</strong></a>
 <br />
