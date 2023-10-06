@@ -10,6 +10,8 @@
 <h3> Welcome to iCoder - Your Ultimate Coding Blogging Site
 </h3>
 
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+ 
 <br />
 <a href="https://ranitmanik.github.io/iCoder-Bootsrap/"><strong>Visit the Website »</strong></a>
 <br />
@@ -19,51 +21,22 @@
 <a href=".github/ISSUE/bug-report---.md">Report Bug</a>
 ·
 <a href=".github/ISSUE/feature-request---.md">Request Feature</a>
-
+ 
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
 # About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/RanitManik/iCoder-Bootsrap)
-iCoder is a cutting-edge blogging platform designed for coding enthusiasts like you! Powered by Bootstrap, our sleek and modern interface provides an immersive reading experience for all things coding-related.
-  visit my website : https://ranitmanik.github.io/iCoder-Bootsrap/
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
-## Built With
+iCoder is a state-of-the-art blogging platform tailored for individuals passionate about coding, just like you! It utilizes Bootstrap, a popular web development framework, to deliver a polished and contemporary interface. This ensures that users have an engaging and immersive reading experience when it comes to all topics related to coding.
+[visit the website:](https://ranitmanik.github.io/iCoder-Bootsrap/)
 
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -94,7 +67,6 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -104,7 +76,6 @@ Welcome to my Bootstrap website project for coding beginners! In this project, I
 
 _For more , please read guide to bootstrap [Guide](.github/ISSUE/guide---.md)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -119,7 +90,6 @@ _For more , please read guide to bootstrap [Guide](.github/ISSUE/guide---.md)_
  [open issues](.github/ISSUE/bug-report---.md) for a full list of and known issues.
  
  [open features](.github/ISSUE/bug-report---.md) to propose a feature.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -136,7 +106,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -144,7 +113,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -154,7 +122,6 @@ Your Name - Ranit Kumar Manik - ranitmanikofficial@outlook.com
 
 Project Link: [https://github.com/RanitManik/Bootsrap.git](https://ranitmanik.github.io/iCoder-Bootsrap/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -165,7 +132,6 @@ Project Link: [https://github.com/RanitManik/Bootsrap.git](https://ranitmanik.gi
 - Feel free to check it out and see the source of inspiration for this project.
 
 - Thank you for visiting Planet-Earth, and we hope you enjoy exploring the wonders of our beautiful planet!
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
