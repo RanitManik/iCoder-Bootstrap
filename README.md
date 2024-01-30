@@ -2,38 +2,19 @@
 <br />
 <div align="center">
   <a href="https://github.com/RanitManik/Bootsrap.git">
-    <img src="images/logo.png" alt="Logo" width="200" height="200">
+    <img src="images/logo.png" alt="Logo" width="100">
   </a>
 
 <h1 align="center">iCoder</h1>
 
 <h3> Welcome to iCoder - Your Ultimate Coding Blogging Site
 </h3>
-
-<br />
-<a href="https://ranitmanik.github.io/iCoder-Bootsrap/"><strong>Visit the Website »</strong></a>
-<br />
-<br />
-<a href="https://ranitmanik.github.io/iCoder-Bootsrap/">View Demo</a>
-·
-<a href=".github/ISSUE/bug-report---.md">Report Bug</a>
-·
-<a href=".github/ISSUE/feature-request---.md">Request Feature</a>
- 
-  </p>
 </div>
-
----
-
-<!-- ABOUT THE PROJECT -->
-
-
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/RanitManik/iCoder-Bootsrap)
 
----
 
-# About The Project
+## About The Project
 
 iCoder is a state-of-the-art blogging platform tailored for individuals passionate about coding, just like you! It utilizes Bootstrap, a popular web development framework, to deliver a polished and contemporary interface. This ensures that users have an engaging and immersive reading experience when it comes to all topics related to coding.
 visit the website: [icoder-Bootstrap](https://ranitmanik.github.io/iCoder-Bootsrap/)
@@ -41,7 +22,7 @@ visit the website: [icoder-Bootstrap](https://ranitmanik.github.io/iCoder-Bootsr
 
 <!-- GETTING STARTED -->
 
-# Getting Started
+## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -69,32 +50,8 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 
-<!-- USAGE EXAMPLES -->
 
-# Outcome
-
-Welcome to my Bootstrap website project for coding beginners! In this project, I will take you through the fundamental concepts of Bootstrap and show you how to create a responsive and visually appealing website using this popular front-end framework. Whether you are new to coding or an experienced developer looking to streamline your design process, Bootstrap is an excellent tool to have in your toolkit. Let's dive right in!
-
-_For more , please read guide to bootstrap [Guide](.github/ISSUE/guide---.md)_
-
-
-<!-- ROADMAP -->
-
-# Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
-
-
- [open issues](.github/ISSUE/bug-report---.md) for a full list of and known issues.
- 
- [open features](.github/ISSUE/bug-report---.md) to propose a feature.
-
-<!-- CONTRIBUTING -->
-
-# Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -108,25 +65,17 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-<!-- LICENSE -->
 
-# License
+## Connect
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-<!-- CONTACT -->
-
-# Contact
-
-Your Name - Ranit Kumar Manik - ranitmanikofficial@outlook.com
-
-Project Link: [https://github.com/RanitManik/Bootsrap.git](https://ranitmanik.github.io/iCoder-Bootsrap/)
+- [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /> Email](mailto:ranitmanik.dev@gmail.com)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /> LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
 
 
-<!-- ACKNOWLEDGMENTS -->
-
-# Acknowledgments
+## Acknowledgments
 
 - I would like to acknowledge that I didn't create this website alone. It was inspired by a fantastic YouTube tutorial, which you can <a href="https://youtu.be/vpAJ0s5S2t0"><strong> watch here »</strong></a>
 
